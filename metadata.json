@@ -1,0 +1,5 @@
+{
+  "name": "SiteScanner AI",
+  "description": "An intelligent website analysis tool that extracts comprehensive business details, menus, and structural information using Gemini 2.5.",
+  "requestFramePermissions": []
+}
